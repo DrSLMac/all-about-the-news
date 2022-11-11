@@ -1,5 +1,5 @@
 import React, {useContext} from 'react'
-import AppContext from '../../utilities/Context'
+import AppContext from '../../Context'
 import StoryTile from '../StoryTile/StoryTile'
 import './NewsStand.css'
 

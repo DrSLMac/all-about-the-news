@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { Link } from 'react-router-dom'
-import AppContext from '../../utilities/Context'
+import AppContext from '../../Context'
 import './StoryTile.css'
 
 const StoryTile = ({ abstract, byline, image, title, section, url, id }) => {

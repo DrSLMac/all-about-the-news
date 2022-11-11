@@ -1,6 +1,6 @@
 import React, {useContext} from 'react'
 import "./DetailView.css"
-import AppContext from '../../utilities/Context'
+import AppContext from '../../Context'
 import Header from '../../components/Header/Header'
 import Footer from '../../components/Footer/Footer'
 import DetailNavBar from '../../components/NavBar/DetailNavBar'

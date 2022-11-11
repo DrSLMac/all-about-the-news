@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Routes, Route, Navigate } from 'react-router-dom'
-import { getArticles } from '../../utilities/apiCalls';
+import { getArticles } from '../../apiCalls';
 import './App.css';
 import NavBar from '../NavBar/NavBar';
 import Home from '../Home/Home';
@@ -8,10 +8,11 @@ import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import FilteredView from '../FilteredView/FilteredView';
 import DetailView from '../DetailView/DetailView';
-import AppContext from '../../utilities/Context';
+import AppContext from '../../Context';
 import ErrorHandling from '../ErrorHandling/ErrorHandling';
 
 const App = () => {
+
   const [loading, setLoading] = useState(false)
   const [articles, setArticles] = useState([])
   const [singleStory, setSingleStory] = useState('')
