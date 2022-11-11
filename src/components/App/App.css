@@ -1,0 +1,19 @@
+.App {
+  margin: 1em;
+}
+
+.loading-message-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loading-message {
+  padding: 4em;
+  text-align: center;
+}
+
+main {
+  margin-bottom: 4vh;
+}
+

@@ -1,0 +1,163 @@
+{
+    "results": [
+        {
+            "section": "books",
+            "subsection": "review",
+            "title": "The 2022 New York Times/New York Public Library Best Illustrated Children’s Books",
+            "abstract": "Take a peek at all 10 of this year’s winners.",
+            "url": "https://www.nytimes.com/2022/11/10/books/review/the-2022-new-york-times-new-york-public-library-best-illustrated-childrens-books.html",
+            "uri": "nyt://article/b5f76f2a-3a94-56b4-a761-94ed50f73e5f",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2022-11-10T10:51:56-05:00",
+            "created_date": "2022-11-10T05:00:48-05:00",
+            "published_date": "2022-11-10T05:00:48-05:00",
+            "material_type_facet": "",
+            "kicker": "Children’s books",
+            "des_facet": [
+            "Books and Literature",
+            "genre-books-childrens",
+            "Farmhouse (Book)",
+            "Yellow Dog Blues (Book)",
+            "Night Lunch (Book)",
+            "Telling Stories Wrong (Book)",
+            "Bedtime for Bo (Book)",
+            "The Upside Down Hat (Book)",
+            "The New Rooster (Book)",
+            "The Writer (Book)",
+            "Where Butterflies Fill the Sky (Book)",
+            "Still This Love Goes On (Book)"
+            ],
+            "org_facet": [ ],
+            "per_facet": [
+                            "Blackall, Sophie",
+                            "Duncan, Alice Faye",
+                            "Raschka, Chris",
+                            "Fan, Eric (Illustrator)",
+                            "Seiferling, Dena",
+                            "Rodari, Gianni (1920-80)",
+                            "Alemagna, Beatrice",
+                            "Shugaar, Antony",
+                            "Skomsvold, Kjersti Annesdatter",
+                            "Johnsen, Mari Kanstad",
+                            "Dickson, Kari (Translator)",
+                            "Barr, Stephen (Author)",
+                            "Zhang, Gracey",
+                            "Alexander, Rilla",
+                            "Cali, Davide",
+                            "Barengo, Monica",
+                            "Marwan, Zahra",
+                            "Sainte-Marie, Buffy (1941- )",
+                            "Flett, Julie"
+                        ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/13/books/review/13BestIllustrated-SUB01/13BestIllustrated-SUB01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1487,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mari Kanstad Johnsen"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/13/books/review/13BestIllustrated-SUB01/13BestIllustrated-SUB01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mari Kanstad Johnsen"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/13/books/review/13BestIllustrated-SUB01/13BestIllustrated-SUB01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mari Kanstad Johnsen"
+                }
+            ],
+            "short_url": "https://nyti.ms/3TqXrWz"
+        },
+        {
+            "section": "books",
+            "subsection": "",
+            "title": "Read Your Way Through Dublin",
+            "abstract": "Virtuosity and creativity with language are “everyone’s birthright” in the Irish capital, says Tana French, an award-winning mystery writer who has made it her home.",
+            "url": "https://www.nytimes.com/2022/11/09/books/dublin-books-read-tana-french.html",
+            "uri": "nyt://article/bad54d37-d467-58ab-bcc9-29738f4b249d",
+            "byline": "By Tana French",
+            "item_type": "Article",
+            "updated_date": "2022-11-09T05:00:15-05:00",
+            "created_date": "2022-11-09T05:00:15-05:00",
+            "published_date": "2022-11-09T05:00:15-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                            "Books and Literature",
+                            "Writing and Writers",
+                            "Poetry and Poets",
+                            "The Glorious Heresies (Book)",
+                            "The Spinning Heart (Book)",
+                            "Ulysses (Book)"
+                         ],
+            "org_facet": [
+                            "Trinity College (Dublin, Ireland)"
+                        ],
+            "per_facet": [
+                            "Doyle, Roddy",
+                            "Joyce, James",
+                            "McInerney, Lisa (Author)",
+                            "Murray, Paul (1975- )",
+                            "Nugent, Liz (1967- )",
+                            "O'Brien, Flann",
+                            "O'Rowe, Mark",
+                            "Ryan, Donal"
+                        ],
+            "geo_facet": [
+                            "Dublin (Ireland)",
+                            "Cork (Ireland)",
+                            "Burren (Ireland)"
+                        ],
+            "multimedia": [
+                    {
+                        "url": "https://static01.nyt.com/images/2022/11/09/books/09LitGuide-Dublin/09LitGuide-Dublin-superJumbo.jpg",
+                        "format": "Super Jumbo",
+                        "height": 1367,
+                        "width": 2048,
+                        "type": "image",
+                        "subtype": "photo",
+                        "caption": "",
+                        "copyright": "Raphaelle Macaron"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2022/11/09/books/09LitGuide-Dublin/09LitGuide-Dublin-threeByTwoSmallAt2X.jpg",
+                        "format": "threeByTwoSmallAt2X",
+                        "height": 400,
+                        "width": 600,
+                        "type": "image",
+                        "subtype": "photo",
+                        "caption": "",
+                        "copyright": "Raphaelle Macaron"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2022/11/09/books/09LitGuide-Dublin/09LitGuide-Dublin-thumbLarge.jpg",
+                        "format": "Large Thumbnail",
+                        "height": 150,
+                        "width": 150,
+                        "type": "image",
+                        "subtype": "photo",
+                        "caption": "",
+                        "copyright": "Raphaelle Macaron"
+                    }
+            ],
+            "short_url": "https://nyti.ms/3WLXfnC"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 4vh;
+    width: 100vw;
+    background-color: #21373C;
+    /* rgb(64 91 106); */
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em;
+    align-items: center;
+    color: white;
+}
+
+.column-one {
+    display: flex;
+    align-items: center;
+}
+
+.logo-title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 0.5vw;
+}
+
+.small-butterfly {
+    height: 4vh;
+    filter: drop-shadow(0 0 0.5rem rgb(120, 154, 144));
+}
+
+.contact-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    /* padding-top: 0.5em; */
+}
+
+svg {
+    height: 3vh;
+    width: 3vw;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(300%) contrast(100%) drop-shadow(0 0 0.4rem rgb(120, 154, 144));
+}

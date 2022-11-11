@@ -1,0 +1,68 @@
+[
+    {
+        "category": "World",
+        "id": "01"
+    },
+    {
+        "category": "US",
+        "id": "02"
+    },
+    {
+        "category": "Politics",
+        "id": "03"
+    },
+    {
+        "category": "Business",
+        "id": "05"
+    },
+    {
+        "category": "Opinion",
+        "id": "06"
+    },
+    {
+        "category": "Technology",
+        "id": "07"
+    },
+    {
+        "category": "Science",
+        "id": "08"
+    },
+    {
+        "category": "Health",
+        "id": "09"
+    },
+    {
+        "category": "Sports",
+        "id": "10"
+    },
+    {
+        "category": "Arts",
+        "id": "11"
+    },
+    {
+        "category": "Books",
+        "id": "12"
+    },
+    {
+        "category": "Style",
+        "id": "13"
+    },
+    {
+        "category": "Food",
+        "id": "14"
+    },
+    {
+        "category": "Travel",
+        "id": "15"
+    },
+    {
+        "category": "Magazine",
+        "id": "16"
+    },
+    {
+        "category": "Video",
+        "id": "18"
+    }
+
+]
+
