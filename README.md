@@ -98,7 +98,7 @@ Future features could include:
 - Add hover effects behind navigation links
 
 ## Deployed Page
-Visit the published site [here](https://main.d2mz6ngmdsqe31.amplifyapp.com/)
+Visit the published site [here](https://all-about-the-news.vercel.app/)
 
 ## Set Up
 1. Fork this repo
