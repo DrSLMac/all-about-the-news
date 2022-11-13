@@ -70,14 +70,14 @@
 
 ## Illustrations and Demo
 #### Home Page
-<img width="1475" alt="Screen Shot 2022-11-03 at 12 02 51 AM" src="https://user-images.githubusercontent.com/102887963/199651214-642dc254-c16e-4957-b93d-c6c01d064ab2.png">
+![news-scroll](https://user-images.githubusercontent.com/102887963/201544773-f1a3b9bf-4ae9-4bb3-84de-2dc33a90e0a2.gif)
 
 ----
-#### Filter Feature
-![filter-feature](https://user-images.githubusercontent.com/102887963/199652138-17e449fa-a277-49c8-adf0-8ec603d3dbba.gif)
+#### Select an article to see more details
+![select-article](https://user-images.githubusercontent.com/102887963/201545215-8a2cf8d8-469d-4b38-9dae-717506981ab1.gif)
 ----
-#### Arts Section View
-<img width="1475" alt="Screen Shot 2022-11-03 at 12 03 13 AM" src="https://user-images.githubusercontent.com/102887963/199651272-35ce21a1-b91e-4c3e-b19f-117e6905cb9d.png">
+#### Filter articles, select an article then return to previous search
+![filter-scroll](https://user-images.githubusercontent.com/102887963/201545401-43fc6887-fd08-458a-b33a-7488c7800257.gif)
 
 
 ## Project Reflections
@@ -95,7 +95,7 @@ Future features could include:
 - Ability for user to login to a personal account
 - User is able to save/favorite articles
 - User is able to personalize the navigation bar based on preference of categories
-- Add hover effects behind navigation links
+- Add full responsiveness to allow for easy viewing on mobile devices
 
 ## Deployed Page
 Visit the published site [here](https://all-about-the-news.vercel.app/)
@@ -120,7 +120,6 @@ Visit the published site [here](https://all-about-the-news.vercel.app/)
  - [Router docs](https://reactrouter.com/)
  - [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress)
  - [Medium](https://medium.com/)
- - [CSS Book Animation](https://devsnap.me/css-book-effects)
 
 ## Project Specs
  - The project spec & rubric can be found [here](https://mod4.turing.edu/projects/take_home/take_home_fe)
